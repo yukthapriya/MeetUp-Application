@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "868915288033",
+    "firebase_url": "https://intresto-90098-default-rtdb.firebaseio.com",
+    "project_id": "intresto-90098",
+    "storage_bucket": "intresto-90098.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868915288033:android:eebad7c4bcdab8b386a4a0",
+        "android_client_info": {
+          "package_name": "com.example.interesto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868915288033-u6l8nf8m3rbt9ks1gd5u8cln340bk5f4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.interesto",
+            "certificate_hash": "24adb4a977abff647f88baf3c86a21c28f0588bf"
+          }
+        },
+        {
+          "client_id": "868915288033-ioqb6c6902q4nqupju8tv2blrt7de67v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Q5wt41s_k9iZjZq0LuNyk3lnCnMsgu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868915288033-ioqb6c6902q4nqupju8tv2blrt7de67v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
